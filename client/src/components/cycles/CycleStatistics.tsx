@@ -94,3 +94,4 @@ export const CycleStatistics = ({ cycles, totalDurationMonths }: CycleStatistics
         </div>
     );
 };
+
