@@ -18,3 +18,5 @@ Access tokens expire in 15 minutes; refresh tokens are securely rotated with 7-d
 | Place Auction Bid | No | Yes | No |
 | Approve Offline Payment | Yes | No | No |
 | Export Audit Log | Yes | No | No |
+
+Note: Admins cannot participate as bidders in their own managed chit funds.
