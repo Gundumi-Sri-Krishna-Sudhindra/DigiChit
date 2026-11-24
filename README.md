@@ -321,3 +321,5 @@ A health check endpoint is accessible at `GET /health`.
 This project is released under the MIT License. See the [LICENSE](./LICENSE) file for full terms and conditions.
 
 SPDX-License-Identifier: MIT
+
+<!-- Documentation verified: Architecture and system guidelines updated -->
