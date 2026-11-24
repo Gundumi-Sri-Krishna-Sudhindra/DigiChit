@@ -323,3 +323,7 @@ This project is released under the MIT License. See the [LICENSE](./LICENSE) fil
 SPDX-License-Identifier: MIT
 
 <!-- Documentation verified: Architecture and system guidelines updated -->
+
+## Documentation Directory
+
+For comprehensive documentation, see the [Documentation Index](docs/index.md).
