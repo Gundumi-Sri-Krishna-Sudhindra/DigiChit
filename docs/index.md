@@ -13,3 +13,8 @@ Welcome to the comprehensive documentation suite for DigiChit.
 - [WebSocket Protocols](websocket-protocol.md)
 - [Deployment Guide](deployment-guide.md)
 - [Testing Strategy](testing-strategy.md)
+- [Notifications & Alerts](notification-service.md)
+- [Audit Logging](audit-logging.md)
+- [Financial Calculations](financial-calculations.md)
+- [Error Codes](error-handling.md)
+- [Disaster Recovery](disaster-recovery.md)
