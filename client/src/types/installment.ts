@@ -72,3 +72,4 @@ export interface GenerateInstallmentsInput {
 export interface WaiveLateFeeInput {
     remarks?: string;
 }
+
