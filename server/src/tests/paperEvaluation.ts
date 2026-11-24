@@ -825,3 +825,4 @@ runPaperEvaluation().catch(err => {
     console.error('Fatal Evaluation Error:', err);
     mongoose.disconnect().finally(() => process.exit(1));
 });
+
