@@ -10,3 +10,6 @@ Instructions for local development and cloud production deployment.
 ### Ports
 - Backend API server: `http://localhost:5000`
 - Frontend Vite dev server: `http://localhost:5173`
+
+### Troubleshooting
+If MongoDB connection fails, verify that your IP is allowlisted in MongoDB Atlas.
