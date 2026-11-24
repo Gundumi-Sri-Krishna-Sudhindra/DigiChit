@@ -101,3 +101,4 @@ export const globalErrorHandler = (
 
     res.status(statusCode).json(responsePayload);
 };
+
