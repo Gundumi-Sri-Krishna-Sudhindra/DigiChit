@@ -8,3 +8,6 @@ The DigiChit ledger enforces financial integrity by recording balanced debit and
 - **Prize Money Payable**: Holds allocated prize money before disbursal to winners.
 - **Foreman Commission**: Records organizer fees deducted per cycle rules.
 - **Dividend Pool**: Records dividend discounts distributed among participating non-winning members.
+
+### Account Classifications
+Accounts are categorized into Assets, Liabilities, Equity, Revenue, and Expense types.
