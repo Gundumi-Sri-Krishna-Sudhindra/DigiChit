@@ -7,3 +7,6 @@ DigiChit keeps members informed through email and in-app notifications.
 - Payment due date reminder.
 - Auction winner announcement.
 - Dividend distribution receipt.
+
+### Template Parameters
+Templates utilize `{{userName}}`, `{{chitTitle}}`, `{{amount}}`, and `{{dueDate}}` placeholders.
