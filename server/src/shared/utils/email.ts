@@ -151,3 +151,4 @@ export const sendChitGroupCreatedEmail = async (email: string, name: string, gro
 
     await dispatchEmail(mailOptions, `Chit Group Created email sent to ${email}`, 'Error sending Chit Group Created email:');
 };
+

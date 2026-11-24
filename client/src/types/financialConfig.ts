@@ -19,3 +19,4 @@ export interface IFinancialConfig {
     allowPenaltyWaiver: boolean;
     currency: string;
 }
+

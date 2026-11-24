@@ -45,3 +45,4 @@ export function getInvalidSignatureToken(user: IUser | { _id: any; role: string;
         { expiresIn: '1d' } as any
     );
 }
+

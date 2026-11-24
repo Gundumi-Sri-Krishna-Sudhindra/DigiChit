@@ -96,3 +96,4 @@ export const getSidebarMenu = (role: string, organizerStatus: string, kycStatus?
 
     return baseMenu;
 };
+

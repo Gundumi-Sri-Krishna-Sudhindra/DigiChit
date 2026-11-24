@@ -68,3 +68,4 @@ export class AccountRepository {
         return await Account.find({ ...filter, isActive: true }).sort({ accountNumber: 1 });
     }
 }
+

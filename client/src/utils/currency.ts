@@ -34,3 +34,4 @@ export const formatCurrency = (amount: number, currencyCode?: string): string =>
     const locale = code === 'INR' ? 'en-IN' : 'en-US';
     return `${symbol}${num.toLocaleString(locale)}`;
 };
+

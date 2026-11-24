@@ -24,3 +24,4 @@ export const loadRazorpayScript = (): Promise<boolean> => {
         document.body.appendChild(script);
     });
 };
+

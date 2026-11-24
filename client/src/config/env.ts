@@ -25,3 +25,4 @@ export const config = {
     keyId: (import.meta.env.VITE_RAZORPAY_KEY_ID as string) || ''
   }
 };
+
