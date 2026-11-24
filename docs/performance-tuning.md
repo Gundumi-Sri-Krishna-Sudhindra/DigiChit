@@ -6,3 +6,6 @@ Best practices for ensuring sub-100ms response times across DigiChit.
 - MongoDB Index optimization on `chitId`, `cycleId`, and `userId` fields.
 - In-memory caching for live bid states during active auctions.
 - Gzip compression and static asset bundle chunking via Vite.
+
+### Cache Invalidation
+Caches invalidate automatically upon cycle closure and payment confirmation events.
